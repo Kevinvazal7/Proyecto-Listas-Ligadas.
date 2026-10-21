@@ -17,8 +17,7 @@ Proyecto escolar que implementa una lista simplemente ligada sin utilizar `Linke
 - `insert(int index, int value)`: inserta en una posición.
 - `remove(int index)`: elimina y retorna un nodo por índice.
 - `reverse()`: invierte la lista.
-- `findMiddleNode()`: encuentra el nodo medio con dos punteros.
-- `hasLoop()`: detecta ciclos con el algoritmo de Floyd.
+
 
 También incluye `mostrar()`, `size()` y validación de índices.
 
