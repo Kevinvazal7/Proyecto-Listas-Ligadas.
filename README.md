@@ -2,10 +2,6 @@
 
 Proyecto escolar que implementa una lista simplemente ligada sin utilizar `LinkedList` de Java.
 
-## Requisitos
-- Java JDK instalado.
-- NetBeans, VS Code u otro editor de Java.
-
 ## Cómo ejecutar
 1. Abre el proyecto o crea una clase llamada `Main`.
 2. Copia `Main.java`.
